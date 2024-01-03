@@ -1,0 +1,7 @@
+path: /kaggle/working/garbage__pile
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['garbage']

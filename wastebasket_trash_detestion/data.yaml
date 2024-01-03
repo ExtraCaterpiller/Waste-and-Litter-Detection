@@ -1,0 +1,7 @@
+path: /kaggle/working/Wastebasket_trash_detecation
+train: images/train
+val: images/val
+test: images/test
+
+nc: 27
+names: ['Bottle', 'Box', 'CAN', 'Can', 'Dustbin', 'LDPE', 'Tempat-sampah', 'Trash-Can', 'bin', 'bottle', 'bottled-drinks', 'can', 'canned-drinks', 'fake bag', 'glass', 'green bag', 'litter-bins', 'people', 'pet', 'plastic-bottles', 'plastic_cup', 'plasticbottle', 'tetrapack', 'trash', 'trashcan', 'wastebin', 'white bag']
