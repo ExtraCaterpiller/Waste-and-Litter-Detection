@@ -3,12 +3,8 @@ The introduction of AI in waste management is an important step to keep out envi
 
 Another use case of identifying garbage from images or video could be to understand the location of garbage within a city using Google Images and placing it over a map like this: https://glasgow-litter.garyblackwood.co.uk/ 
 
-# Dataset
-We collceted most of the datasets from this repo-'https://github.com/AgaMiko/waste-datasets-review?tab=readme-ov-file'
-
-All the datasets were uploaded to google drive and then we performed tasks by downloading them o kaggle.
-
 # Dataset source and review
+All the datasets were uploaded to google drive and then we performed tasks by downloading them o kaggle.
 ### garbage pile dataset
 This dataset was collceted from this location-'https://universe.roboflow.com/garbage-detection-czeg5/garbage_detection-wvzwv'
 
